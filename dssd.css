@@ -1,0 +1,15 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background: black;
+}
+
+.wrapper {
+  padding: 0 100px;
+  position: relative;
+}
+
+.slick-prev:before, .slick-next:before {
+  color: black;
+}
+/*# sourceMappingURL=dssd.css.map */
